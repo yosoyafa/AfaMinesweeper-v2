@@ -5,3 +5,4 @@ How to run my program:
 ```  
 $ java -jar AfaMinesweeper-v2.jar
 ``` 
+Carlos Andrés Afanador Cabal
